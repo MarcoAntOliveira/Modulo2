@@ -1,0 +1,16 @@
+import json
+
+
+{
+    "name": "marcos", 
+    "lastname": "Antonio",
+    "age": 22,
+    "addresses":[
+        {"line1": "av. brasil"},
+        {"line2": "av. brasil"},
+        {"line1": "av. brasil"}
+    ]
+}
+
+    
+
